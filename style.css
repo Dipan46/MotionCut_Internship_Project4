@@ -40,7 +40,7 @@ h1 {
 #add-task-btn {
     padding: 10px;
     border: none;
-    background-color: #ffd000;
+    background-color: #F57D1F;
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
@@ -48,12 +48,12 @@ h1 {
 
 #add-task-btn:hover {
     color: black;
-    background-color: #ffe675;
+    background-color: #f59851;
 }
 
 #add-task-btn:active {
     color: white;
-    background-color: #ffd000;
+    background-color: #F57D1F;
 }
 
 ul {
